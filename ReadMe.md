@@ -1,4 +1,4 @@
-# Documents and tutorials for [FLOODPY](https://github.com/kleok/FLOODPY)
+# Documents and tutorials for [FLOODPY](https://github.com/kleok/FLOODPY) <img src="https://github.com/kleok/FLOODPY-docs/blob/main/Floodpy_logo.png" width="58">
 
 ## Case Studies 
 | Location (flood event) | Date | Case study link |
